@@ -1,0 +1,6 @@
+name = "Journals"
+uuid = "643ad400-a5d3-11ee-0a21-cd5924531524"
+
+
+[deps]
+Cobweb = "ec354790-cf28-43e8-bb59-b484409b7bad"
