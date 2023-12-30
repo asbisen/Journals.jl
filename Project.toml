@@ -1,6 +1,12 @@
 name = "Journals"
 uuid = "643ad400-a5d3-11ee-0a21-cd5924531524"
-
+authors = ["Anand Bisen"]
+version = "0.0.1"
 
 [deps]
 Cobweb = "ec354790-cf28-43e8-bb59-b484409b7bad"
+EasyConfig = "acab07b0-f158-46d4-8913-50acef6d41fe"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
